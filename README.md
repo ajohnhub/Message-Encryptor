@@ -17,7 +17,7 @@ This Message Encryptor is a Python-based tool designed to securely encrypt and d
 
 <p align="center">
 Import Random and String Module: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="756" alt="step 1" src="https://github.com/user-attachments/assets/4b0ae4a4-2e45-484c-9c99-70b5f6f58aa1">
 <br />
 <br />
 Create and list characters, then create key:  <br/>
