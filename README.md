@@ -17,35 +17,35 @@ This Message Encryptor is a Python-based tool designed to securely encrypt and d
 
 <p align="center">
 Import Random and String Module: <br/>
-<img width="756" alt="step 1" src="https://github.com/user-attachments/assets/4b0ae4a4-2e45-484c-9c99-70b5f6f58aa1">
+<img width="1172" alt="step 1" src="https://github.com/user-attachments/assets/76d609aa-4bf0-4104-b97d-9cc23fe23a11">
 <br />
 <br />
 Create and list characters, then create key:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1437" alt="step 2" src="https://github.com/user-attachments/assets/149f4b2a-7686-4589-b829-e71aae8770fd">
 <br />
 <br />
-Hide lists into f string and shuffle key: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Hide then put lists into f string and shuffle key: <br/>
+<img width="1439" alt="step 3" src="https://github.com/user-attachments/assets/7a32ba22-1f8e-4e78-8a7b-5df00979cbff">
 <br />
 <br />
 Create user input for encrpytion:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1438" alt="step 4" src="https://github.com/user-attachments/assets/6bb0820d-7fe2-4415-89ee-cc161273eb31">
 <br />
 <br />
 Create user input for decryption:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1437" alt="step 5" src="https://github.com/user-attachments/assets/948d8a25-5435-467f-8edc-6499fd0547d2">
 <br />
 <br />
 Run program:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="315" alt="step 6" src="https://github.com/user-attachments/assets/c440e0a1-4f06-465e-9127-d0607d906d55">
 <br />
 <br />
 Enter message to encrpyt and hit enter/return on key board:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1437" alt="step 7" src="https://github.com/user-attachments/assets/f804711d-a69e-4a5b-a168-b5892029bfe0">
 <br />
 <br />
 Enter message to decrpyt and hit enter/return on key board:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1400" alt="step 8" src="https://github.com/user-attachments/assets/c854ccfa-dc29-47a3-8bc4-b0b278f3497d">
 </p>
 
 <!--
