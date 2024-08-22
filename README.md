@@ -41,11 +41,11 @@ Run program:  <br/>
 <br />
 <br />
 Enter message to encrpyt and hit enter/return on key board:  <br/>
-<img width="1437" alt="step 7" src="https://github.com/user-attachments/assets/f804711d-a69e-4a5b-a168-b5892029bfe0">
+<img width="1430" alt="step seven" src="https://github.com/user-attachments/assets/f1ad93ea-b266-4ae8-9338-d80efbe03f16">
 <br />
 <br />
 Enter message to decrpyt and hit enter/return on key board:  <br/>
-<img width="1400" alt="step 8" src="https://github.com/user-attachments/assets/c854ccfa-dc29-47a3-8bc4-b0b278f3497d">
+<img width="1404" alt="step eight" src="https://github.com/user-attachments/assets/0e9b5c09-1a1c-4417-bd34-8e2520727cb3">
 </p>
 
 <!--
